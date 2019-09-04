@@ -16590,5 +16590,37 @@
     "address": "0xc5e017450346e4f9a2e477519d65affcfc90586a",
     "decimals": 18,
     "totalSupply": 200000000000
+  },
+  {
+    "id": "weth",
+    "symbol": "WETH",
+    "name": "Wrapped Ether",
+    "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "decimals": 18,
+    "totalSupply": 1778219
+  },
+  {
+    "id": "promotiontoken",
+    "symbol": "PT",
+    "name": "Promotion Token",
+    "address": "0x094c875704c14783049ddf8136e298b3a099c446",
+    "decimals": 18,
+    "totalSupply": 999999995
+  },
+  {
+    "id": "bamboo",
+    "symbol": "BAM",
+    "name": "Bamboo",
+    "address": "0x22b3faaa8df978f6bafe18aade18dc2e3dfa0e0c",
+    "decimals": 18,
+    "totalSupply": 75000000
+  },
+  {
+    "id": "tetherusd",
+    "symbol": "USDT",
+    "name": "Tether USD",
+    "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "decimals": 6,
+    "totalSupply": 1575057493
   }
 ]
