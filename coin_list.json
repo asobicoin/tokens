@@ -4538,7 +4538,7 @@
   {
     "id": "digitex-futures-exchange",
     "symbol": "dgtx",
-    "name": "Digitex Futures Exchange",
+    "name": "Digitex Futures",
     "address": "0x1c83501478f1320977047008496dacbd60bb15ef",
     "decimals": 18,
     "totalSupply": 1000000000
@@ -16593,7 +16593,7 @@
   },
   {
     "id": "weth",
-    "symbol": "WETH",
+    "symbol": "weth",
     "name": "Wrapped Ether",
     "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
     "decimals": 18,
@@ -16601,7 +16601,7 @@
   },
   {
     "id": "promotiontoken",
-    "symbol": "PT",
+    "symbol": "pt",
     "name": "Promotion Token",
     "address": "0x094c875704c14783049ddf8136e298b3a099c446",
     "decimals": 18,
@@ -16609,7 +16609,7 @@
   },
   {
     "id": "bamboo",
-    "symbol": "BAM",
+    "symbol": "bam",
     "name": "Bamboo",
     "address": "0x22b3faaa8df978f6bafe18aade18dc2e3dfa0e0c",
     "decimals": 18,
@@ -16617,7 +16617,7 @@
   },
   {
     "id": "tetherusd",
-    "symbol": "USDT",
+    "symbol": "usdt",
     "name": "Tether USD",
     "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
     "decimals": 6,
